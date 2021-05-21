@@ -1,9 +1,12 @@
 ---
+title: Готово, епта
+date: 2021-05-20 23:28:02 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Готово, епта"
-date:   2021-05-21 04:28:02 +0500
-categories: jekyll update
 ---
+
 Кто тут первый парень на селе, кто не смирился с утратой october.cms и теперь будет пилить статичные страницы?
 
 Jekyll requires blog post files to be named according to the following format:

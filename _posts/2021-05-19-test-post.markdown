@@ -1,9 +1,12 @@
 ---
+title: Самый первый пост
+date: 2021-05-19 11:28:02 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Самый первый пост"
-date:   2021-05-19 16:28:02 +0500
-categories: jekyll update
 ---
+
 Этот пост был опубликован даже раньше, чем предыдущий. Такие дела.
 
 Jekyll requires blog post files to be named according to the following format:
